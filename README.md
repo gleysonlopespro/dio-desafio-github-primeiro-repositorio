@@ -6,4 +6,4 @@ Repositório Criado para o Desafio de projeto.
 ## Inserindo uma Imagem no Readme:
 ![image](https://user-images.githubusercontent.com/97358393/198856273-f479c8e6-f906-40e2-aa2e-34133c5555d3.png)
 
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
+![stars](https://user-images.githubusercontent.com/97358393/198857458-a084ecc5-64e5-48d1-bb2d-6798bd358769.svg)
